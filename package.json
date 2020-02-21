@@ -1,5 +1,5 @@
 {
-  "name": "npmfelixtest",
+  "name": "@wiztopic/npmfelixtest",
   "version": "1.0.5",
   "description": "Test",
   "main": "index.js",
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "np": "^6.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelixHeng/NPM-Publish.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FelixHeng/NPM-Publish/issues"
+  },
+  "homepage": "https://github.com/FelixHeng/NPM-Publish#readme"
 }
